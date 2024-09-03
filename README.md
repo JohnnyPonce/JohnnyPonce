@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @JohnnyPonce
-- 👀 I’m interested in um estagio. 
-- 🌱 I’m currently learning o basico da progamação. 
-- 💞️ I’m looking to collaborate on com uma empresa que me de a oportunidade.
-- 📫 How to reach me pode me chamar no e-mail jhonnymarcelo59@gmail.com.
+Johnny Ponce
+Estudante de Engenharia da Computação | Aspirante a Desenvolvedor Back-End
 
-<!---
-JohnnyPonce/JohnnyPonce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Sobre mim:
+Sou um estudante de Engenharia da Computação, atualmente no sexto semestre, com uma paixão crescente por desenvolvimento back-end. Meu foco está em adquirir habilidades técnicas sólidas e aplicá-las em projetos reais para resolver problemas e criar soluções eficientes.
+
+🚀 O que estou aprendendo:
+
+Lógica de programação (Concluído) - Udemy
+Fundamentos de Desenvolvimento Web (em andamento) - Udemy
+Configuração de sistemas de segurança (CFTV, centrais de alarme)
+🌱 Em busca de:
+Oportunidades de estágio na área de desenvolvimento back-end, onde posso aprender com uma equipe talentosa e contribuir para projetos impactantes.
+
+🔗 Vamos conectar?
+Estou sempre aberto a colaborações e aprendizados. Vamos crescer juntos na jornada da programação!
